@@ -2,6 +2,8 @@
 
 The demo of Express + Knex + MySQL + Firebase Storage
 
+Example video: https://www.loom.com/share/d1bc7ab297ae41f68c1b9256b14ee4c8
+
 #### Installation
 
 Prerequisite:
