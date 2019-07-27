@@ -16,7 +16,7 @@ npm install -g knex
 Clone the source from this repo
 
 ```
-cd backend
+cd express-knex
 cp .env.dist .env
 
 # then, configure your `.env` file
@@ -30,7 +30,7 @@ knex seed:run
 #### Run
 
 ```
-cd backend
+cd express-knex
 npm run dev | yarn dev
 ```
 
