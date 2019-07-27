@@ -20,7 +20,7 @@ cd express-knex
 cp .env.dist .env
 
 # then, configure your `.env` file
-# copy your google clound service key file into `server/storage/key.json`
+# copy your google cloud service key file into `server/storage/key.json`
 
 npm install | yarn
 knex migrate:latest
